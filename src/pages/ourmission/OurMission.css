@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    margin-top: 200px;
+}
+
+.mission_heading{
+    display: flex;
+    justify-content: space-around;
+}
+.ourmission{
+    text-align: justify;
+    padding: 2%;
+    margin: 0 auto;
+    max-width: 80%;
+    margin-bottom: 95px;
+}
